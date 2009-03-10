@@ -1,5 +1,6 @@
 This is a simple extension to [smart_field_contrains](http://github.com/pluginaweek/smart_field_constraints) plugin,  
-to allow textareas to also have a maxlength (which is non WC3 conform).
+to allow textareas to also have a maxlength (which is non WC3 conform).  
+The maxlength attribute can be enforced via e.g. [jQuery CharCounter plugin](http://www.tomdeater.com/jquery/character_counter/).
 
 Setup
 =====
